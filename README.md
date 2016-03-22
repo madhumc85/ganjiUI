@@ -1,2 +1,0 @@
-# ganjiUI
-Gangi website UI
